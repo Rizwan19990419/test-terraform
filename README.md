@@ -13,7 +13,7 @@ fatal: unable to auto-detect email address (got 'prana@Madhu0906.(none)')
 otq-rwbb-afs
 rizwan
 hello
-#### i am <Rizwan >####
+#### i am Rizwan ####
 this is git reamme.md file update from me -- your name
 keep you readme.md file in your vs code
 
